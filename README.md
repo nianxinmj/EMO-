@@ -52,5 +52,5 @@
 
 ## 📥 下载与反馈
 
-欢迎前往 [[GitHub Releases]](https://github.com/nianxinmj/EMO-/releases/tag/v1.0.1)(#) 下载最新版（请替换为你的 GitHub 地址）  
+欢迎前往 [[GitHub Releases]](https://github.com/nianxinmj/EMO-/releases/tag/v1.0.1)(#) 下载最新版
 如有问题或建议，可通过 issue 或其他渠道联系我，感谢支持 ❤️
